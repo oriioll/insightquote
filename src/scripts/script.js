@@ -39,6 +39,86 @@ const quotes = [
     {
         sentence: "Nuestra mayor debilidad radica en renunciar. La forma más segura de tener éxito es intentarlo una vez más.",
         author: "Thomas A. Edison"
+    },
+    {
+        sentence: "Haz lo que puedas, con lo que tengas, donde estés.",
+        author: "Theodore Roosevelt"
+    },
+    {
+        sentence: "La imaginación es más importante que el conocimiento.",
+        author: "Albert Einstein"
+    },
+    {
+        sentence: "No cuentes los días, haz que los días cuenten.",
+        author: "Muhammad Ali"
+    },
+    {
+        sentence: "El fracaso es simplemente la oportunidad de comenzar de nuevo, esta vez con más inteligencia.",
+        author: "Henry Ford"
+    },
+    {
+        sentence: "La educación es el arma más poderosa que puedes usar para cambiar el mundo.",
+        author: "Nelson Mandela"
+    },
+    {
+        sentence: "No esperes. El tiempo nunca será justo.",
+        author: "Napoleon Hill"
+    },
+    {
+        sentence: "La felicidad no es algo hecho. Proviene de tus propias acciones.",
+        author: "Dalai Lama"
+    },
+    {
+        sentence: "No hay caminos para la paz; la paz es el camino.",
+        author: "Mahatma Gandhi"
+    },
+    {
+        sentence: "El único límite a nuestros logros de mañana está en nuestras dudas de hoy.",
+        author: "Franklin D. Roosevelt"
+    },
+    {
+        sentence: "Cree que puedes y ya estás a mitad de camino.",
+        author: "Theodore Roosevelt"
+    },
+    {
+        sentence: "La disciplina es el puente entre metas y logros.",
+        author: "Jim Rohn"
+    },
+    {
+        sentence: "Nunca es demasiado tarde para ser lo que podrías haber sido.",
+        author: "George Eliot"
+    },
+    {
+        sentence: "El conocimiento habla, pero la sabiduría escucha.",
+        author: "Jimi Hendrix"
+    },
+    {
+        sentence: "La perseverancia no es una carrera larga; son muchas carreras cortas una tras otra.",
+        author: "Walter Elliot"
+    },
+    {
+        sentence: "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.",
+        author: "Albert Schweitzer"
+    },
+    {
+        sentence: "No hay viento favorable para el que no sabe a dónde va.",
+        author: "Séneca"
+    },
+    {
+        sentence: "La libertad no es nada más que una oportunidad para ser mejor.",
+        author: "Albert Camus"
+    },
+    {
+        sentence: "El talento gana partidos, pero el trabajo en equipo y la inteligencia ganan campeonatos.",
+        author: "Michael Jordan"
+    },
+    {
+        sentence: "La creatividad es inteligencia divirtiéndose.",
+        author: "Albert Einstein"
+    },
+    {
+        sentence: "El que tiene un porqué para vivir puede soportar casi cualquier cómo.",
+        author: "Friedrich Nietzsche"
     }
 ];
 
