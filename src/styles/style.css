@@ -98,6 +98,9 @@ section {
   border: solid 4px var(--accent-action);
   border-radius: 15px;
 }
+section:hover {
+    cursor: pointer;
+}
 
 main section blockquote {
   font-family: var(--font-quote);

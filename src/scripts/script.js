@@ -1,3 +1,4 @@
+//generate object array with sentence and author
 const quotes = [
     {
         sentence: "La mejor manera de predecir el futuro es crearlo.",
@@ -42,10 +43,17 @@ const quotes = [
 ];
 
 function generateRandomQuote() {
-    let size = quotes.length()
+    //Pick array size and generate a random number from 0 until size
+    let size = quotes.length
     let number = Math.floor(Math.random() * size)
+    //Save the object sentence from the array and the index generated
     let sentence = quotes[number].sentence
+    //Save the object author from the array and the index generated
     let author = quotes[number].author
+
+    //Show both sentence and author with textContent in the html blockquote and p
+    document.getElementById('sentence').textContent = sentence
+    document.getElementById('author').textContent = `-${author}`
 }
 
 document.getElementById('quoteContainer').addEventListener('click', () => {
